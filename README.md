@@ -1,2 +1,3 @@
-# calculolight-plataforma
-Plataforma SaaS de orçamento e produção de esquadrias de alumínio
+# Cálculo Light Plataforma V2
+
+Estrutura correta com api, app, site, database e deploy.
